@@ -74,7 +74,9 @@ add browser.get("https://angularjs.org/")
 **Create Runner task as nodejs**
 
 Project Name : <task runner>ProtractorRunner
+
 path_file : protractor/built/cli.js
+
 Application Arguments : <configuration file name> configuration
 
 **To enable AngujarJs Auto Suggestion**

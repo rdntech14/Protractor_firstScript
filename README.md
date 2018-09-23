@@ -4,10 +4,10 @@ Create First Protractor Script
 **This project demonstrates following**
 
 1) Install nodejs using brew or download ( by default npm will also be installed)
-2) using npm install protractor
-3) Download eclipse for JavaScript
-4) Start
-4) Create first script and make use of 
+2) Install protractor using npm
+3) Update Webdriver manager and Start
+4) Download eclipse for JavaScript
+5) Create first script and make use of 
 	
 	a) Jasmine keywords - describe, it, assertion method expect
 	
@@ -55,7 +55,7 @@ added 126 packages from 191 contributors in 5.614s
 protractor --version
 ```
 
-**Update Webdriver and Start**
+**Update Webdriver Manager and Start**
 
 ```
 webdriver-manager update

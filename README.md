@@ -95,7 +95,7 @@ Select Project --> Configure --> Convert to Tern Project
 
 Select Protector and click on Dependencies tab
 
-**Demo Website to practice**
+**Demo Website**
 
 http://juliemr.github.io/protractor-demo/
 

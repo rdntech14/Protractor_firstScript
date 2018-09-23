@@ -8,7 +8,7 @@ Create First Protractor Script
 3) Download eclipse for JavaScript
 4) Create first script and make use of 
 	
-	a) Jasmine - describe, it, assertion method expect
+	a) Jasmine keywords - describe, it, assertion method expect
 	
 	b) Protractor global variables like browser and element.
 	
@@ -67,16 +67,14 @@ declare describe and it
 add browser.get("https://angularjs.org/")
 
 
-Place protractor folder from /usr/local/lib/node_modules into eclipse javascript project
+**Place protractor folder from /usr/local/lib/node_modules into eclipse javascript project**
 
 **Create configuration file**
 
 **Create Runner task as nodejs**
 
 Project Name : <task runner>ProtractorRunner
-
 path_file : protractor/built/cli.js
-
 Application Arguments : <configuration file name> configuration
 
 **To enable AngujarJs Auto Suggestion**
